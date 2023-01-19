@@ -1,0 +1,1 @@
+CREATE TABLE employee(empid int,empname varchar(25),empsal int,empdob date,emploc varchar(25));
